@@ -1,0 +1,11 @@
+{
+  "name": "mcp-plugin-main",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "mcp-plugin-main",
+    "platforms": [
+      "android"
+	 ]
+  },
+  "description": "A starting point for a Cordova Plugin"
+}
