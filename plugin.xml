@@ -48,6 +48,7 @@
 		<source-file src="src/android/com/ibm/tw/gbs/ixtein/tasks/SecurityTask.java" target-dir="src/com/ibm/tw/gbs/ixtein/tasks/" />
 		<source-file src="src/android/com/ibm/tw/gbs/ixtein/tasks/BaseTask.java" target-dir="src/com/ibm/tw/gbs/ixtein/tasks/" />
 		<framework src="org.bouncycastle:bcprov-jdk15on:1.60" />
+		<framework src="commons-io:commons-io:2.6" />
    </platform>
 
     <!-- ios 	-->
